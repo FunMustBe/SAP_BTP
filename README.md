@@ -30,3 +30,5 @@ https://developers.sap.com/tutorials/hana-cloud-cap-create-ui.html
 
 Odata Oberfläche Starten
 cds bind -2 MyHANAApp-dev:SharedDevKey
+
+xsuaa Autentifizierung hat nicht funktioniert. Änderungen wurden rückgängig gemacht.
