@@ -23,3 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+# PEMA 
+Odata Oberfläche Starten
+cds bind -2 MyHANAApp-dev:SharedDevKey
